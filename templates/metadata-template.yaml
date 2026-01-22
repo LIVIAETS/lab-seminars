@@ -1,1 +1,12 @@
+title: "Talk title"
+presenter: "Full Name"
+affiliation: "Institution"
+date: "YYYY-MM-DD"
+time: "HH:MM"
+location: "Room / Zoom link"
+slides: "slides.pdf"
+recording: ""
+keywords:
+  - topic1
+  - topic2
 
