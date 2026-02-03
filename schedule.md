@@ -1,5 +1,7 @@
 # Lab Seminar Schedule
 
+Unless otherwise specified, all seminars will take place at 12h00.
+
 | Date | Presenter | Title | Room | Slides |
 |------|-----------|--------|--------|--------|
 | 2026-02-19 | Omprakash Chakraborty | ORION: ORthonormal Text Encoding for Universal VLM AdaptatION | A-3600 | [slides](seminars/2025-02-14-jane-doe/slides.pdf) |
