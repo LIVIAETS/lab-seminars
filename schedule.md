@@ -2,7 +2,7 @@
 
 | Date | Presenter | Title | Room | Slides |
 |------|-----------|--------|--------|--------|
-| 2026-02-19 |  |  | A-3600 | [slides](seminars/2025-02-14-jane-doe/slides.pdf) |
+| 2026-02-19 | Omprakash Chakraborty | ORION: ORthonormal Text Encoding for Universal VLM AdaptatION | A-3600 | [slides](seminars/2025-02-14-jane-doe/slides.pdf) |
 | 2026-03-05 |  |  | A-3600 | [slides](seminars/2025-02-14-jane-doe/slides.pdf) |
 | 2026-03-19 |  |  | A-3600 | [slides](seminars/2025-02-14-jane-doe/slides.pdf) |
 | 2026-04-02 |  |  | A-3600 | [slides](seminars/2025-02-14-jane-doe/slides.pdf) |
