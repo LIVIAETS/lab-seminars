@@ -3,7 +3,7 @@ Seminar series for LIVIA lab
 
 # Lab Seminar Series
 
-This repository tracks the seminars of the [Your Lab Name].
+This repository tracks the seminars of the LIVIA laboratory.
 
 ## How to add a seminar
 
